@@ -1,0 +1,1 @@
+pscp -pw -r  ./SDK_JAVA pi@39.116.129.138:./Downloads/JSDK
